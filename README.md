@@ -11,8 +11,8 @@ Before you begin, ensure you have the following installed:
 
 ## Installation and step by process
 
-1. Clone the repository:
-```bash
+1. Clone the repository:https://github.com/MRIGAANKSh/Internship.git
+
 git clone <your-repository-url>
 
 2.cd INTERNSHIP/intern
