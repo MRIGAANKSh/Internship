@@ -21,3 +21,8 @@ git clone <your-repository-url>
 
 4.http://localhost:4200/ visit it and have fun 
 
+## Images of the project 
+<img src="images/Screenshot (353).png" alt="Logo">
+
+<img src="images/Screenshot (354).png" alt="Logo">
+
