@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed:
 ```bash
 git clone <your-repository-url>
 
-2.cd INTERNSHIP/intern
+2.cd intern
 
 3.ng serve
 
